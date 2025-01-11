@@ -1,0 +1,15 @@
+- [x] Create an odoo resource.
+	-  http://odoo-y0scsswgkkg84o4cokok4w8k.138.201.186.81.sslip.io:8069
+- [x] Create a database.
+	- Master Password: `9jws-5veq-7wm8`
+	- Database: `alkhayat-production`
+	- Password: `3~,)mZT$HXf%v9!`
+- [x] Create admin:
+	- User: `ahmed`
+	- Password: `3~,)mZT$HXf%v9!`
+- [x] install apps.
+- [x] Fix the ssl of the main domain.
+- [x] create 3 websites.
+	- [x] Fix the website editor loop bug
+- [x] link at least two with ssl certified domains.
+

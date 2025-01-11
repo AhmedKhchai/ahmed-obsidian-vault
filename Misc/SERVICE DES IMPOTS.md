@@ -1,0 +1,3 @@
+Je suis un jeune diplômé marocain, arrivé en France en septembre 2021 dans le cadre de mes études universitaires. J’ai poursuivi une licence, puis un master en alternance entre septembre 2022 et septembre 2024. Depuis octobre 2024, j’occupe un poste en CDI.
+
+Je n’ai pas encore effectué de déclaration de revenus en France et souhaite entreprendre les démarches nécessaires pour régulariser ma situation et obtenir un avis d’imposition.
